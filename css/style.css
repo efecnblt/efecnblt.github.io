@@ -745,6 +745,7 @@ h3.my-profession{
     }
     .home .home-img{
         display: none;
+        
     }
  }
  @media (max-width: 767px){
