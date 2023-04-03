@@ -321,8 +321,8 @@ h3.my-profession{
     width: 80px;
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
-    right: -10px;
-    bottom: -40px;
+    right: 0px;
+    bottom: 95px;
 }
 .home-img::before{
     content: '';
@@ -331,8 +331,8 @@ h3.my-profession{
     width: 80px;
     border-top: 10px solid var(--skin-color);
     border-left: 10px solid var(--skin-color);
-    left: -10px;
-    top: -40px;
+    left: 0;
+    top: -30px;
 }
 .home .home-img img{
     margin: auto;
